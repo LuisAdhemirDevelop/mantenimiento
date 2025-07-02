@@ -8,6 +8,7 @@ public class MantenimientoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MantenimientoApplication.class, args);
+		System.out.println("Se inicia MantenimientoApplication");
 	}
 
 }
